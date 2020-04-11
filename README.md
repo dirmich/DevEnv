@@ -1,6 +1,7 @@
 # DevEnv
 https://medium.com/ayuth/iterm2-zsh-oh-my-zsh-the-most-power-full-of-terminal-on-macos-bdb2823fb04c
 https://gist.github.com/kevin-smets/8568070
+https://gist.github.com/480/3b41f449686a089f34edb45d00672f28
 
 1. iterm2 + zsh
   1. brew cask install iterm2
